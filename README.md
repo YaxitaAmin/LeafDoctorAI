@@ -90,5 +90,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📧 Contact
-[Your Name] - [Your Email]
-Project Link: https://github.com/yourusername/LeafDoctorAI
+[Yaxita Amin] - yaxita2003@gmail.com
+Project Link: https://github.com/YaxitaAmin/LeafDoctorAI
