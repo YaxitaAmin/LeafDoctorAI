@@ -5,9 +5,7 @@ data/Plant_leave_diseases_dataset_without_augmentation/
 *.png
 *.gif
 
-# Model files
-*.h5
-best_model.h5
+
 
 # Python
 __pycache__/
