@@ -1,0 +1,54 @@
+# Dataset
+data/Plant_leave_diseases_dataset_without_augmentation/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Model files
+*.h5
+best_model.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment
+.env
+.venv
+env/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+myenv/Lib/site-packages/torch/lib/dnnl.lib
+myenv/Lib/site-packages/torch/lib/torch_cpu.dll
